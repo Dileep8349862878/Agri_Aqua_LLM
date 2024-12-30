@@ -18,8 +18,6 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.embeddings import HuggingFaceEmbeddings
 ## Load the Groq API key
 
-#groq_api = "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"
-
 #os.environ['groq_api'] = os.getenv('groq_api')
 
 #groq_api_key = os.getenv("groq_api")
