@@ -22,7 +22,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 
 #groq_api_key = os.getenv("groq_api")
 llm = ChatGroq(
-    groq_api_key="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",
+    groq_api_key="Change with your Groq API Key",
     model_name="Llama3-8b-8192"
 )
 
